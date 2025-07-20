@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+
+# Virtual Environment
+venv/
+
+# Ollama/ChromaDB
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Logs and other temporary files
+*.log
+*.tmp
+.DS_Store
