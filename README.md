@@ -72,13 +72,13 @@
 
 ---
 
-## 🚀 Quick Start
-
-### One-Line Installation
+## ⚡ Quick Start (one line)
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/jeremylongshore/nexus-rag/main/install.sh | bash
 ```
+
+Then run: `source venv/bin/activate && streamlit run app.py` (Windows: `venv\Scripts\activate`)
 
 <details>
 <summary><b>Manual Installation</b></summary>
