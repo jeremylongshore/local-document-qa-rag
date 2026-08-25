@@ -7,6 +7,8 @@ receipts, provider portability, and policy-bounded cloud acceleration.**
 > the Intent Solutions house brand) · local directory `local-rag-agent` · GitHub
 > remote [`jeremylongshore/iam-local-rag`](https://github.com/jeremylongshore/iam-local-rag).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ## What it is
 
 NEXUS turns your documents into a queryable knowledge base you control. It runs
